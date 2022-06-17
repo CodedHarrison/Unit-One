@@ -1,0 +1,242 @@
+*{
+ padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+}
+
+
+ .clear{
+   clear:both;
+ }
+#logo{
+ float: left;
+ color: white;
+}
+
+.main-section {
+  background-image: url(./image/background.jpeg);
+  background-size: cover;
+  
+}
+.main-header h2{
+ float: right;
+ margin:0px 5.2rem;
+ color: white;
+}
+.main-header{
+ 
+background-color: rgb(56, 86, 95);
+margin: 0px auto;
+padding: 1.5rem 4rem;
+padding-bottom: 3.3rem;
+
+
+
+}
+nav button{
+ display:block
+
+}
+
+
+nav li{
+list-style: none;
+
+}
+ a:hover {
+  color: greenyellow;
+
+}
+ 
+ nav a{
+ text-decoration: none;
+ margin: auto;
+ padding: 15px;
+ display: flex;
+ font-size: 1.5rem;
+ color: white;
+
+}
+
+
+
+ ul a{
+  text-decoration: none;
+ }
+ 
+ .form-section{
+  text-align: center;
+ }
+ .form-section h1{
+  margin-bottom: 2.7rem;
+
+ }
+form input,
+form label,
+form textarea{
+ display: block;
+ font-size: 1.2rem;
+
+ 
+}
+
+form input, 
+form textarea{
+ margin: 0.5rem auto;
+  width: 50%;
+}
+
+.button-section{
+ padding: 0.5rem 0rem;
+ width: 50%;
+ background-color: cadetblue;
+ font-size: 1.1rem;
+}
+
+.order h1{
+ text-align: center;
+ color: white;
+ margin-bottom: 12rem 0rem;
+
+}
+form label{
+ text-align: center;
+}
+
+form button{
+ padding: 1rem 2rem;
+ text-align: center;
+
+ 
+}
+
+.image-gallery{
+  display: flex;
+  
+}
+
+
+
+ button{
+ padding: 1rem 2rem;
+ margin-top: 1rem;
+ text-decoration: none;
+  background-color: cadetblue;
+  border: none;
+ 
+}
+
+div button a {
+ text-decoration: none;
+ color: white;
+ font-size: 16px;
+ 
+
+}
+ 
+.main-text{
+  text-align: center;
+  padding-left: 250px;
+  padding-right: 250px;
+  font-size: 2rem;
+  color : white;
+  text-shadow: 6px -10px 10px  black ;
+  margin-bottom: 1rem;
+  
+  
+}
+
+.driver{
+  background-color: rgb(56, 86, 95);
+  height: 100px;
+  width: 180px;
+  padding: 1rem;
+
+  text-align: center;
+  padding: 3.35rem;
+  color: white;
+}
+
+
+.main-order button{
+  margin-left: 50%;
+  margin-right: 50%;
+   text-align: center;
+  padding: 1rem 2rem;
+ margin-top: 1rem;
+ text-decoration: none;
+ background-color: white
+}
+
+.about-text{
+ text-align: right;
+}
+
+.footer-wrapper{
+display: flex;
+background-color: rgb(56, 86, 95);
+
+
+}
+
+.copy{
+  margin: 0px 500px;
+  padding: 1.2rem;
+  color: white;
+  font-size: 0.9rem;
+  
+}
+
+
+.footer-logo{
+  
+  display: flex;
+  margin-top: 0.9rem ;
+  
+}
+
+.image-section{
+  display: flex;
+
+}
+.nav-color a{
+  color: black;
+}
+
+.main-order{
+  padding:1rem 2rem;
+  color:orangered
+}
+
+form button{
+    color: orange;
+}
+
+.about-text{
+text-align: center;
+padding-right: 50%;
+
+}
+
+body{
+  background-color:orange;
+}
+ 
+.cart{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+ 
+}
+
+.cart-title{
+   text-align: center;
+}
+.cart-title h1{
+  margin-bottom: 25px;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.about-section{
+  margin-top:  50px;
+  
